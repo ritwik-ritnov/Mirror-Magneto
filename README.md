@@ -82,7 +82,7 @@ You can also change the commands. For help ask in [Telegram Group](https://t.me/
 
 # How to deploy?
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ritwik-ritnov/Mirror-Magneto/tree/main)
 
 - Configs [Here](https://github.com/ritwik-ritnov/Mirror-Magneto/tree/main#configs)
 - For any help ask in [Telegram Group](https://t.me/linux_repo):
